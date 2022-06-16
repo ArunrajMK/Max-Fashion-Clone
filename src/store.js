@@ -7,7 +7,7 @@ import { dataReducer} from "./Data/reducer";
 
 
 const rootReducer = combineReducers({
-  // count:counterReducer,
+
   data:dataReducer,
   auth:authReducer
 })

@@ -151,9 +151,9 @@ const handleChange = ()=>{
                   <ListItem>Grand Total</ListItem>
                   </List>
                   <List spacing={2}>
-                  <ListItem>{total}</ListItem>
+                  <ListItem>₹ {total}</ListItem>
                   <ListItem>Free</ListItem>
-                  <ListItem>{total}</ListItem>
+                  <ListItem>₹ {total}</ListItem>
                   </List>
                 </SimpleGrid>
             

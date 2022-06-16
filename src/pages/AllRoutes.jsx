@@ -9,6 +9,9 @@ import Footer from '../footer/Footer'
 import Check from '../checkPage/Check'
 import Products from '../product/Products'
 import ProductDetails from '../product/ProductDetails'
+import AuthWrapper from '../Auth/AuthWrapper'
+import Login from '../Auth/Login'
+import SignUp from '../Auth/SignUp'
 
 
 function AllRoutes() {
@@ -18,10 +21,11 @@ function AllRoutes() {
        <Routes>
       
        <Route path='/'  element={<Products/>} />
-      <Route path="/:id" element={<ProductDetails/>}/>
-       <Route path="/cart" element={<CartC/>}/>  
-       <Route path="/products" element={<ProductDetails/>}/>  
-       <Route path="/payment" element={<PaymentPage/>} />
+       <Route path="/:id" element={<AuthWrapper><ProductDetails/></AuthWrapper>}/>
+       <Route path="/cart" element={<AuthWrapper><CartC/></AuthWrapper>}/>  
+       <Route path="/signup" element={<SignUp/>}/>  
+       <Route path="/payment" element={<AuthWrapper><PaymentPage/></AuthWrapper>} />
+       <Route path="/login" element={<Login/>} />
       </Routes>
      
    </>

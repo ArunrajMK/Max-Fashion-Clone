@@ -1,11 +1,12 @@
 import { CloseIcon, HamburgerIcon } from "@chakra-ui/icons";
-import { Box, Button, Flex,  IconButton, Image, Input, Stack, Text, useBreakpointValue, useColorModeValue, useDisclosure } from "@chakra-ui/react";
+import { Box, Button, Flex,  IconButton, Image, Input, Portal, Stack, Text, useBreakpointValue, useColorModeValue, useDisclosure } from "@chakra-ui/react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from 'react-router-dom'
 import { Link } from "react-router-dom";
 import { getData } from "../Data/action";
+import Profile from "../profile/Profile";
 
 
 export function Navbar({categoryHandler,mensHandler,girlsHandler,boysHandler,categoryValues,handleIcon}) {
@@ -26,7 +27,12 @@ export function Navbar({categoryHandler,mensHandler,girlsHandler,boysHandler,cat
     }
   },[query,dispatch])
   
-
+const handleSignIn = ()=>{
+  navigate("/login")
+}
+const handleSignUp = ()=>{
+  navigate("/signup")
+}
 
 
 useEffect(()=>{
@@ -109,7 +115,7 @@ useEffect(()=>{
         
           </Flex>
 
-         <Input onChange={(e)=>setQuery(e.target.value)} placeholder="What are you looking for?" w="600px" marginRight="100px" />
+         <Input onChange={(e)=>setQuery(e.target.value)} placeholder="What are you looking for?" w="600px" marginRight="50px" />
           <Stack
             flex={{ base: 1, md: 0 }}
             justify={'flex-end'}
@@ -119,17 +125,19 @@ useEffect(()=>{
              
               fontFamily={'heading'}
             
-              marginLeft={5}  style={{cursor:'pointer'}}>
+              marginLeft={5} onClick={handleSignUp} style={{cursor:'pointer'}}>
                 SignUp
             </Text>
             <Text
           
               fontFamily={'heading'}
             
-              marginLeft={5}  style={{cursor:'pointer'}}>
+              marginLeft={5} onClick={handleSignIn} style={{cursor:'pointer'}}>
                  SignIn
             </Text>
-        
+            
+              <Profile/>
+           
             <Text>
                 <Link to="./cart"><Text>Cart:{cartLength}</Text></Link>
             </Text>
@@ -196,7 +204,7 @@ useEffect(()=>{
       fontFamily={'heading'}
       color={useColorModeValue('gray.800', 'white')}
       marginLeft={5}   style={{cursor:'pointer'}}>
-      9999
+     
     </Text>
 
     <Text
@@ -204,7 +212,7 @@ useEffect(()=>{
       fontFamily={'heading'}
       color={useColorModeValue('gray.800', 'white')}
       marginLeft={5}  style={{cursor:'pointer'}}>
-       oooo
+      
     </Text>
    
     <Text
@@ -212,7 +220,7 @@ useEffect(()=>{
       fontFamily={'heading'}
       color={useColorModeValue('gray.800', 'white')}
       marginLeft={5}  style={{cursor:'pointer'}}>
-        vvvv
+        
     </Text>
 
   </Flex>
