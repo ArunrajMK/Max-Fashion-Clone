@@ -1,0 +1,5 @@
+.box{
+    display:grid;
+    color:red;
+    grid-template-rows: repeat(3,1fr);
+}

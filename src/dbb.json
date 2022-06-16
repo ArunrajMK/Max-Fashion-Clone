@@ -1,0 +1,143 @@
+{
+    "data":[
+    {
+      "section":"women",  
+      "img":"https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011378373-Yellow-YELLOW-1000011378373-13052022_01-2100.jpg",
+      "type" : "T-shirt",
+      "price":800,
+      "size":"M",
+      "color": "yellow",
+      "discount":0,
+      "overview":"Update your casual look with this casual t-shirt designed with a solid surface along with half sleeves and a round neckline.",
+      "product" : "T-shirt",
+      "country": "India",
+      "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+      "instructions" : "Machine Wash",
+      "policy" : "This product is returnable within 30 days of delivery"
+    
+    },
+    {
+        "section":"women",  
+        "img":"https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011386877-Green-GREEN-1000011386877-29052022_01-2100.jpg",
+        "type" : "T-shirt",
+        "price":700,
+        "size":"XL",
+        "color": "green",
+        "discount":30,
+        "overview":"Update your casual look with this casual t-shirt designed with a solid surface along with half sleeves and a round neckline.",
+        "product" : "T-shirt",
+        "country": "India",
+        "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+        "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+        "instructions" : "Machine Wash",
+        "policy" : "This product is returnable within 30 days of delivery"
+      
+    },
+    {
+        "section":"men",  
+        "img":"https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011215096-White-WHITE-1000011215096-10032022_02-2100.jpg",
+        "type" : "T-shirt",
+        "price":999,
+        "size":"L",
+        "color": "white",
+        "discount":40,
+        "overview":"Up your style quotient with this solid polo t-shirt which has a polo neck, button closure, and short sleeves.",
+        "product" : "T-shirt",
+        "country": "India",
+        "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+        "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+        "instructions" : "Machine Wash",
+        "policy" : "This product is returnable within 30 days of delivery"
+      
+      },
+      {
+         "section":"men",  
+          "img":"https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011215096-Red-RED-1000011215096-10032022_02-2100.jpg",
+          "type" : "T-shirt",
+          "price":899,
+          "size":"M",
+          "color": "red",
+          "discount":50,
+          "overview":"Up your style quotient with this solid polo t-shirt which has a polo neck, button closure, and short sleeves.",
+          "product" : "T-shirt",
+          "country": "India",
+          "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+          "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+          "instructions" : "Machine Wash",
+          "policy" : "This product is returnable within 30 days of delivery"
+        
+     },
+     {
+        "section":"girls",  
+        "img":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011196225-Yellow-YELLOW-1000011196225-28042022_01-2100.jpg",
+        "type" : "Dresses",
+        "price":900,
+        "size":"S",
+        "color": "yellow",
+        "discount":10,
+        "overview":"Rendered in an A-line profile, this dress is fashioned with a square neckline, ruffled and embroidered surface, making it a perfect outfit for your diva.",
+        "product" : "Dresses",
+        "country": "India",
+        "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+        "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+        "instructions" : "Machine Wash",
+        "policy" : "This product is returnable within 30 days of delivery"
+      
+      },
+      { 
+          "section":"girls",  
+          "img":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011196137-Green-LIGHTGREEN-1000011196137-31032022_01-2100.jpg",
+          "type" : "Dresses",
+          "price":1000,
+          "size":"S",
+          "color": "blue",
+          "discount":50,
+          "overview":"Rendered in an A-line profile, this dress is fashioned with a square neckline, ruffled and embroidered surface, making it a perfect outfit for your diva.",
+          "product" : "Dresses",
+          "country": "India",
+          "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+          "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+          "instructions" : "Machine Wash",
+          "policy" : "This product is returnable within 30 days of delivery"
+        
+      },
+      {
+        "section":"boys",    
+        "img":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010551803-Multicolour-M-1000010551803-8272021_010-2100.jpg",  
+        "type" :"T-shirt",
+        "price":400,
+        "size":"S",
+        "color": "green",
+        "discount":60,
+        "overview":"An ideal pick for a casual wardrobe, this set of trendy t-shirts are designed with typographic prints, short sleeves and a crew neckline.",
+        "product" : "",
+        "country": "India",
+        "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+        "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+        "instructions" : "Machine Wash",
+        "policy" : "This product is returnable within 30 days of delivery"
+      
+      },
+      {
+          "section":"boys",  
+          "img":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010551803-Multicolour-M-1000010551803-8272021_02-2100.jpg",
+          "type" : "T-shirt",
+          "price":700,
+          "size":"S",
+          "color": "white",
+          "discount":30,
+          "overview":"An ideal pick for a casual wardrobe, this set of trendy t-shirts are designed with typographic prints, short sleeves and a crew neckline.",
+          "product" : "T-shirt",
+          "country": "India",
+          "Manufacture" : "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+          "contact" : "Manager Commercial,77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur PO., Bangalore-560037, Phone: 1800-123-1444, help.in@maxfashion.com",
+          "instructions" : "Machine Wash",
+          "policy" : "This product is returnable within 30 days of delivery"
+        
+      }
+],
+
+    "cart":[],
+    "order":[]
+}
