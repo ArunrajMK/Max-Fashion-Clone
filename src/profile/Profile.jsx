@@ -12,12 +12,12 @@ function Profile() {
     cursor="pointer"
     minW={0}
     >
-     <Avatar name="Dan Abrahmov"/>
+     <Avatar  h="50px" />
     </MenuButton>
     <MenuList zIndex={10000}>
-<MenuItem>Cart</MenuItem>
+<MenuItem>Notifications</MenuItem>
 <MenuItem>Your Order</MenuItem>
-<MenuItem>Login</MenuItem>
+<MenuItem>Settings</MenuItem>
 <MenuItem>Logout</MenuItem>
     </MenuList>
    </Menu>

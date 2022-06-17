@@ -81,7 +81,7 @@ export const signUp = (payload)=>(dispatch)=>{
     dispatch(signUpRequest())
     return axios({
         method:"POST",
-        url:"https://reqres.in/api/login",
+        url:"https://reqres.in/api/users",
         data:{
            ...payload
         }
